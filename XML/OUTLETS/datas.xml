@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <personne>
+        <item>
+            <nom>Amine</nom>
+            <prenom>Trabelsi</prenom>
+            <adresse>
+                8 rue de la liberté, Tunis, Tunisie.
+            </adresse>
+        </item>
+        <item>
+            <nom>Oussema</nom>
+            <prenom>Khezami</prenom>
+            <adresse>
+                15 rue de la république, Nabeul, Tunisie.
+            </adresse>
+        </item>
+		<item>
+            <nom>Mohamed</nom>
+            <prenom>Ali</prenom>
+            <adresse>
+                6 rue de carthage, Sousse, Tunisie.
+            </adresse>
+        </item>
+		<item>
+            <nom>Ahmed</nom>
+            <prenom>Omar</prenom>
+            <adresse>
+                22 rue habib bourguiba, Monastir, Tunisie.
+            </adresse>
+        </item>
+    </personne>
+</rss>
