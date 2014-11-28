@@ -34,7 +34,7 @@ $(document).ready(function(){
 			console.log(error.responseText);
 		}
 	});
-	$("#transition").stop(true,false).fadeOut(500);
+	$("#transition").fadeOut(500);
 	$("#left").children(".item").first().addClass("selected");
 	setOutletData();
 	showList(0);

@@ -36,8 +36,8 @@
 }
 #aboutContainer img{
 	display:block;
-	width:100%;
-	height:100%;
+	width:50%;
+	height:auto;
 }
 #aboutContainer span{
 	color: black;
@@ -53,10 +53,9 @@
 #informationSection{
 	height: 80%;
 	width: 60%;
-	margin: 1%;
+	margin-left: 25%;
 	display: inline-block;
 	vertical-align: top;
-	margin-top: 3%;
 }
 
 #informationSection h3{
